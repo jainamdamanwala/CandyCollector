@@ -50,7 +50,11 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 90
+=======
+  controlID: 57
+>>>>>>> Stashed changes
 =======
   controlID: 57
 >>>>>>> Stashed changes
@@ -102,8 +106,13 @@ MonoBehaviour:
     y: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     width: 272
     height: 712
+=======
+    width: 218
+    height: 667
+>>>>>>> Stashed changes
 =======
     width: 218
     height: 667
@@ -246,7 +255,11 @@ MonoBehaviour:
   vertical: 1
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 115
+=======
+  controlID: 66
+>>>>>>> Stashed changes
 =======
   controlID: 66
 >>>>>>> Stashed changes
@@ -279,7 +292,11 @@ MonoBehaviour:
   vertical: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   controlID: 116
+=======
+  controlID: 67
+>>>>>>> Stashed changes
 =======
   controlID: 67
 >>>>>>> Stashed changes
@@ -387,6 +404,7 @@ MonoBehaviour:
   m_LastFoldersGridSize: 36
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LastProjectPath: E:\New Projects\Github\JungleSwing2\CandyCollector\CandyCollector
   m_LockTracker:
     m_IsLocked: 0
@@ -406,11 +424,20 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
 >>>>>>> Stashed changes
+=======
+  m_LastProjectPath: C:\Users\Paradise\Documents\GitHub\CandyCollector\CandyCollector
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+>>>>>>> Stashed changes
     scrollPos: {x: 0, y: 10}
     m_SelectedIDs: 8a470000
     m_LastClickedID: 18314
     m_ExpandedIDs: 000000007047000000ca9a3b
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -443,7 +470,11 @@ MonoBehaviour:
     m_LastClickedID: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_ExpandedIDs: 0000000074450000
+=======
+    m_ExpandedIDs: 0000000070470000
+>>>>>>> Stashed changes
 =======
     m_ExpandedIDs: 0000000070470000
 >>>>>>> Stashed changes
@@ -580,6 +611,9 @@ MonoBehaviour:
       m_LastClickedID: 0
       m_ExpandedIDs: ac11ffffd012ffff126afffff46affffe66bffffde6dffffc06effffa26fffff2872ffff8674ffff6875ffff4a76ffff0e77fffff077ffffe678ffffb67affff767dffff587effff367fffff2680ffff3481ffff1682fffff882ffffda83ffffd484ffffaa85ffff8c86ffff6287ffff2688ffff0889fffffe89ffffe08afffff68bffffba8cffffb88dffff9a8effff788fffff5690ffffa891ffff8a92ffff6093ffff5095ffff6296ffff4497ffff0898ffffde98ffffc099ffffaa9affff889bffff669cffff28b9ffff42ceffff88cfffff36d3ffff18d4fffffad4ffff16d7fffff8d7ffffdad8ffffb4daffffe4dfffff7eecffff50edffff46eeffff18efffffe6f3ffff
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
@@ -644,9 +678,15 @@ MonoBehaviour:
   m_Position:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Target: {x: -1.0657696, y: 0.46055868, z: -1.3259697}
     speed: 2
     m_Value: {x: -1.0657696, y: 0.46055868, z: -1.3259697}
+=======
+    m_Target: {x: 0.005257014, y: -0.046984363, z: -1.684069}
+    speed: 2
+    m_Value: {x: 0.005257014, y: -0.046984363, z: -1.684069}
+>>>>>>> Stashed changes
 =======
     m_Target: {x: 0.005257014, y: -0.046984363, z: -1.684069}
     speed: 2
@@ -709,9 +749,15 @@ MonoBehaviour:
   m_Size:
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     m_Target: 4.7884283
     speed: 2
     m_Value: 4.7884283
+=======
+    m_Target: 4.826582
+    speed: 2
+    m_Value: 4.826582
+>>>>>>> Stashed changes
 =======
     m_Target: 4.826582
     speed: 2
@@ -741,7 +787,11 @@ MonoBehaviour:
     m_OcclusionCulling: 0
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+=======
+  m_LastSceneViewRotation: {x: -0.21401937, y: 0.3488954, z: -0.08217353, w: -0.90869015}
+>>>>>>> Stashed changes
 =======
   m_LastSceneViewRotation: {x: -0.21401937, y: 0.3488954, z: -0.08217353, w: -0.90869015}
 >>>>>>> Stashed changes
