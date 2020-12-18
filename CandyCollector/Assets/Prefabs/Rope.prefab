@@ -89,9 +89,6 @@ GameObject:
   - component: {fileID: 2202840972136306411}
   - component: {fileID: 2202840972136306410}
   - component: {fileID: 2202840972136306421}
-  - component: {fileID: 2202840970932896745}
-  - component: {fileID: 2202840970932896748}
-  - component: {fileID: 2202840970932896744}
   m_Layer: 0
   m_Name: Rope
   m_TagString: Untagged
@@ -207,50 +204,3 @@ MonoBehaviour:
   linkPrefab: {fileID: 1964111839697932, guid: af90e08041e2e734eb5601ada234859f, type: 3}
   weigth: {fileID: 0}
   links: 7
---- !u!58 &2202840970932896745
-CircleCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2202840972136306409}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: -0.00000047683716}
-  serializedVersion: 2
-  m_Radius: 0.32
---- !u!95 &2202840970932896748
-Animator:
-  serializedVersion: 3
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2202840972136306409}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 1abdb39782226ce498524dac8cf94f7c, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &2202840970932896744
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2202840972136306409}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d24f92e675e47134ebd2e2f6d44c2f0f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
